@@ -5,4 +5,4 @@
 ## Notas
 
 1. [Props vs State](https://github.com/oisol/react-study/blob/main/notes/1.%20React%20-%20Props%20vs%20State.md)
-2. [Renderização Condicional](https://github.com/oisol/react-study/blob/main/notes/2.%20React%20-%20Renderização%20Condicional.md)
+2. [Renderização Condicional](https://github.com/oisol/react-study/blob/main/notes/2.%20React%20-%20Renderizacao%20Condicional.md)
